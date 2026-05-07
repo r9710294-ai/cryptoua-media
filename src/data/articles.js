@@ -74,7 +74,7 @@ export const articles = [
     price: '0.001',
     currency: 'ETH',
     date: '6 травня 2025',
-    free: false,
+    free: true,
     content: `
 ## Що таке x402?
 
@@ -122,7 +122,7 @@ x402 на SKALE — це не майбутнє, це вже працюючий �
     price: '0.001',
     currency: 'ETH',
     date: '5 травня 2025',
-    free: false,
+    free: true,
     content: `
 ## SKALE — коротко
 
